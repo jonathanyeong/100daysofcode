@@ -3,8 +3,14 @@
 - [Template Questions](#template-questions)
 ---
 # Day 1 (2020/08/02)
-What did I work on?
-How did I feel?
+## What did I work on?
+- Started v2 of my personal site.
+- Created new hugo theme.
+- Started building out files for the new site.
+- Lots of organizing
+
+## How did I feel?
+- Tired in the beginning, but soon got in the zone. And worked past the hour.
 
 # Template questions
 What did I work on?
