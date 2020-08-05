@@ -50,7 +50,7 @@ A `prop` is like a custom attribute.
 ---
 MVMM Model (Model - View - ViewModel) - ViewModel is a value converter. It is responsible for exposing (converting) the data from the model in such a way that objects are easily managed and presented.
 
-The key diff between this and a controller is that the MVVM pattern has a binder, which automates communication b etween the view and its bound props in the view model. The view model is described as a state of the data in the model.
+The key diff between this and a controller is that the MVVM pattern has a binder, which automates communication between the view and its bound props in the view model. The view model is described as a state of the data in the model.
 
 ---
 
