@@ -1,9 +1,22 @@
 # Table of contents
+- [Day 4](#day-2-20200806)
 - [Day 3](#day-2-20200804)
 - [Day 2](#day-2-20200803)
 - [Day 1](#day-1-20200802)
 - [Template Questions](#template-questions)
 ---
+
+# Day 4 (2020/08/06)
+## What did I work on?
+- Learnt more about VueJS components.
+- Setup a project with Vue CLI.
+
+## What did I learn?
+- How to create and import components.
+- There's also something with the naming that I don't quite understand, but keeping it mind for later.
+
+## How did I feel?
+- I skipped yesterday because I was super tired. Definitely felt much better today. I still don't feel productive with Vue. I don't know how to get the idea in my head into code.
 
 # Day 3 (2020/08/04)
 ## What did I work on?
