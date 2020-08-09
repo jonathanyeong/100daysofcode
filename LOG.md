@@ -1,10 +1,25 @@
 # Table of contents
-- [Day 4](#day-2-20200806)
-- [Day 3](#day-2-20200804)
+- [Day 5](#day-5-20200808)
+- [Day 4](#day-4-20200806)
+- [Day 3](#day-3-20200804)
 - [Day 2](#day-2-20200803)
 - [Day 1](#day-1-20200802)
 - [Template Questions](#template-questions)
 ---
+
+# Day 5 (2020/08/08)
+## What did I work on
+- Get some random numbers generated
+- Display random numbers on the screen.
+- Have the amount of numbers react to the form inputs.
+
+## What did I learn?
+- I played around with v-model and event handling in view. The `@change` event will capture any change to the field.
+- I also learnt that you have to set the default data value otherwise it won't react to events.
+
+## How did I feel?
+- At the start of the session I wanted to refocus on what I wanted to work on. Trying to tackle how to load a CSV file + generating the passphrase seemed like a big job. Especially, since I didn't know that much Vue. But focusing instead on generating random numbers that will be used for lookups later really helped.
+- I felt like I had a good amount of coding vs watching tutorials. Reading the docs only got me so far, I needed to watch someone write vue code before I got it.
 
 # Day 4 (2020/08/06)
 ## What did I work on?
