@@ -1,4 +1,5 @@
 # Table of contents
+- [Day 6](#day-6-20200809)
 - [Day 5](#day-5-20200808)
 - [Day 4](#day-4-20200806)
 - [Day 3](#day-3-20200804)
@@ -6,6 +7,15 @@
 - [Day 1](#day-1-20200802)
 - [Template Questions](#template-questions)
 ---
+
+# Day 6 (2020/08/09)
+## What did I work on
+- Computed props and watchers
+- Tried to read a local file
+## What did I learn?
+- JS does not offer an easy way to read a file. Especially, browser side. Your options are to read the file through a HTML input. Or use Ajax with auth on the file.
+## How did I feel?
+- Kind of bummed since I ran into a brick wall for most of the session. Glad I got one little bit done.
 
 # Day 5 (2020/08/08)
 ## What did I work on
