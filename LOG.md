@@ -1,4 +1,5 @@
 # Table of contents
+- [Day 7](#day-7-20200813)
 - [Day 6](#day-6-20200809)
 - [Day 5](#day-5-20200808)
 - [Day 4](#day-4-20200806)
@@ -7,6 +8,16 @@
 - [Day 1](#day-1-20200802)
 - [Template Questions](#template-questions)
 ---
+
+# Day 7 (2020/08/13)
+## What did I work on
+- Load csv file in vue app
+- Try and get the passphrase from the csv
+## What did I learn
+- Looping over 7000+ elements is not a great idea.
+- Webpack stuff!
+## How did I feel?
+- Started with the same issues as in previous sessions, but pushed through it with the help of someone on twitter! Reading docs more carefully really helped. I realised that I was missing a `vue.config.json` file that would help me with loading the npm package `csv-loader`.
 
 # Day 6 (2020/08/09)
 ## What did I work on
